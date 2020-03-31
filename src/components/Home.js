@@ -1,7 +1,7 @@
 import React, {Fragment,useState, useEffect} from 'react';
 import Pais from './Pais';
 
-const Jumbotron = ()=> {
+const Home = ()=> {
 
     const [search, setSearch] = useState('');
     const [data, setData] = useState([]);
@@ -87,4 +87,4 @@ const Jumbotron = ()=> {
     )
 }
 
-export default Jumbotron;
+export default Home;
