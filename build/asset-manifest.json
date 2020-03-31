@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5039c7d6.chunk.css",
+    "main.js": "/static/js/main.95b5e337.chunk.js",
+    "main.js.map": "/static/js/main.95b5e337.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc434e8b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc434e8b.js.map",
+    "static/js/2.300c5805.chunk.js": "/static/js/2.300c5805.chunk.js",
+    "static/js/2.300c5805.chunk.js.map": "/static/js/2.300c5805.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.591c80616a786f684915a091e6087b9d.js": "/precache-manifest.591c80616a786f684915a091e6087b9d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5039c7d6.chunk.css.map": "/static/css/main.5039c7d6.chunk.css.map",
+    "static/js/2.300c5805.chunk.js.LICENSE.txt": "/static/js/2.300c5805.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/virusbg.3c174ae0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc434e8b.js",
+    "static/js/2.300c5805.chunk.js",
+    "static/css/main.5039c7d6.chunk.css",
+    "static/js/main.95b5e337.chunk.js"
+  ]
+}
